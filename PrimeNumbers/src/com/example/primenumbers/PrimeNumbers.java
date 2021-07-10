@@ -15,7 +15,7 @@ public class PrimeNumbers {
         for(int i = 1; i <= cap; i++){
             //set up counter to count how many times each number is divisible
             int counter = 0;
-            //loop to check how many times current number is divisible up to cap
+            //loop to check how many times current number is divisible up to itself
             for(int j = i; j >= 1; j--){
                 if(i % j == 0){
                     counter = counter + 1;
