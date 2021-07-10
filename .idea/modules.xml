@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DivisibleBy3/DivisibleBy3.iml" filepath="$PROJECT_DIR$/DivisibleBy3/DivisibleBy3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EvenOrOdd/EvenOrOdd.iml" filepath="$PROJECT_DIR$/EvenOrOdd/EvenOrOdd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prime Numbers/Prime Numbers.iml" filepath="$PROJECT_DIR$/Prime Numbers/Prime Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReverseString/ReverseString.iml" filepath="$PROJECT_DIR$/ReverseString/ReverseString.iml" />
+    </modules>
+  </component>
+</project>
